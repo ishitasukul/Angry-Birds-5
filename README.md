@@ -1,2 +1,2 @@
-# Angry-Birds-5
-We made the pigs disappear by using the tint and visibility!
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
